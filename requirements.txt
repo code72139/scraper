@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
